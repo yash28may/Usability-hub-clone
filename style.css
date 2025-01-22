@@ -346,3 +346,19 @@ footer{
 .foot ul li{
     padding-bottom: 1rem;
 }
+
+.subfooter{
+    background: #b9cde4;
+    /* height: 100px;    */
+}
+
+.subfoot-container{
+    align-items: center;
+    justify-content: center;
+    gap:30px;
+    padding: 20px 0;
+}
+
+.subfoot-container a{
+    color: var(--primary-text-color);
+}
