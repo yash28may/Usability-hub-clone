@@ -318,3 +318,31 @@ header{
     color: white;
 }
 
+
+
+/* footer */
+
+footer{
+    background-color: #ebf2fa;
+    padding: 7rem 0;
+}
+.footer-container{
+    color: black;
+    justify-content: space-between;
+    align-items:start;
+}
+
+.footer-img img{
+    width: 200px;
+    height: 50px;
+}
+
+.foot{
+    gap: 20px;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.foot ul li{
+    padding-bottom: 1rem;
+}
